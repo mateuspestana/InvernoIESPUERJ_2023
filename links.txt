@@ -1,0 +1,14 @@
+[Aulas]
+
+Aula 1 - https://www.canva.com/design/DAFpdD1JMPo/6c6KdUlNKEyzZAcCxJmiCQ/edit?utm_content=DAFpdD1JMPo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Aula 2 - https://www.canva.com/design/DAFpjoMCZRg/XxuxAOwCtu97flOi2h350A/edit?utm_content=DAFpjoMCZRg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Aula 3 - https://www.canva.com/design/DAFppVlsMpA/YxFMSNSxM0yKDZz0JPWgYA/edit?utm_content=DAFppVlsMpA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Aula 4 - https://www.canva.com/design/DAFp7KlUyBg/39oCWEpPwv5F9zFOvYuWvg/edit?utm_content=DAFp7KlUyBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+[Notebooks]
+
+Aula 1 - https://colab.research.google.com/drive/1W12l0tty4gNIyADdFp4---p0lH4Wser6?usp=sharing
+Aula 2 - https://colab.research.google.com/drive/140G7dBpdqLIBGqpT80kUueDSlzehBkh2?usp=sharing
+Aula 3 - https://colab.research.google.com/drive/12cyZfCsUaLbfUcMx3Ey4o8tc355x-NAW?usp=sharing
+Aula 4 - https://colab.research.google.com/drive/1TTg1qrvF493MswPbGu6bA_H9BgJpp94Y?usp=sharing
